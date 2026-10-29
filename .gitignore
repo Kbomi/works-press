@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+.DS_Store
+
+# 로컬 설정과 확인용 파일
+.env*
+!.env.example
+/preview*.png
+/AGENTS.md
+/public/images/petrol-p-v2-prompts.md
